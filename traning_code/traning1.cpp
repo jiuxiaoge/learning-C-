@@ -38,4 +38,5 @@ int main(void)
 	cout << Acomp::getMaxOrMin(arr, 4, isMax) << endl;
 	system("pause");
 	return 0;
+	
 }
